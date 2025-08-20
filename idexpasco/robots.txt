@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idexpasco.edu.pe/sitemap.xml
