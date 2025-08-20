@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drepasco.gob.pe/sitemap.xml
