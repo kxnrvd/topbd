@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://campus.tuinenstar.jedu.pe/sitemap.xml
