@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://itedonline.kmutnb.ac.th/sitemap.xml
