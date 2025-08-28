@@ -22,6 +22,7 @@
   <link rel="canonical" href="https://campus.condoray.jedu.pe/" />
   <link rel="amphtml" href="https://topbd.pages.dev/condoray/amp.html" />
   <meta name="google-site-verification" content="9XvNZBIE6v5a_XqjBW5L57a1dTBxH461p2Kp9_RwNbU" />
+  <meta name="google-site-verification" content="KlX8EqXx7_4LXJZwmG5vxK4RFuCRXfI8s29eJd1QHeE" />
   <!-- start preload -->
   <link rel="preload" href="https://topbd.pages.dev/img/tbd4.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
