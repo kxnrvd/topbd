@@ -3,19 +3,19 @@
 <!-- I'M WAS HERE -->
 <head>
   <meta charset="utf-8" />
-  <title>Topbandar # Link Slot Gacor 4d Terbaik & Situs Slot Toto Gacor Mudah Menang</title>
-  <meta name="description" content="Topbandar menjadi agen slot4d gacor terbaik yang memberikan akses bermain slot toto gacor dengan tingkat kemenangan tertinggi saat ini. Slot gacor 4d yang hadir di situs Topbandar menjamin semua permainan slot gacor dan slot toto yang ada sudah berlisensi resmi supaya pengalaman bermain slot gacor 4d di link situs Topbandar semakin menyenangkan." />
-  <meta name="page google.com" content="https://www.google.com/search?q=Topbandar">
-  <meta name="page google.co.id" content="https://www.google.co.id/search?q=Topbandar">
+  <title>Slot 4D : Situs Agen Slot Gacor 4d & Slot Toto Gacor Terbaik Mudah Menang</title>
+  <meta name="description" content="Slot 4D merupakan situs agen slot gacor 4d serta slot toto gacor yang menyediakan ribuan game slot4d gacor mudah menang yang banyak dimainkan oleh para slotter. Agen slot 4d yang berani memberikan jaminan kemenangan terbesar di setiap putaran permainan slot toto 4d paling gacor hari ini." />
+  <meta name="page google.com" content="https://www.google.com/search?q=Slot4d">
+  <meta name="page google.co.id" content="https://www.google.co.id/search?q=Slot4d">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
-  <meta name="data-spm" content="Topbandar" />
+  <meta name="data-spm" content="Slot4d" />
   <meta name="robots" content="index, follow" />
-  <meta name="revisit" content="Topbandar"/>
+  <meta name="revisit" content="Slot4d"/>
   <meta name="og:url" content="https://campus.condoray.jedu.pe/" />
-  <meta name="og:title" content="Topbandar # Link Slot Gacor 4d Terbaik & Situs Slot Toto Gacor Mudah Menang" />
+  <meta name="og:title" content="Slot 4D : Situs Agen Slot Gacor 4d & Slot Toto Gacor Terbaik Mudah Menang" />
   <meta name="og:type" content="product" />
-  <meta name="og:description" content="Topbandar menjadi agen slot4d gacor terbaik yang memberikan akses bermain slot toto gacor dengan tingkat kemenangan tertinggi saat ini. Slot gacor 4d yang hadir di situs Topbandar menjamin semua permainan slot gacor dan slot toto yang ada sudah berlisensi resmi supaya pengalaman bermain slot gacor 4d di link situs Topbandar semakin menyenangkan." />
+  <meta name="og:description" content="Slot 4D merupakan situs agen slot gacor 4d serta slot toto gacor yang menyediakan ribuan game slot4d gacor mudah menang yang banyak dimainkan oleh para slotter. Agen slot 4d yang berani memberikan jaminan kemenangan terbesar di setiap putaran permainan slot toto 4d paling gacor hari ini." />
   <meta name="og:image" content="https://topbd.pages.dev/img/tbd4.jpg" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://topbd.pages.dev/img/favicontbd.png" />
@@ -79,7 +79,7 @@
           "author": {
             "@type": "Person",
             "name": "Awan",
-            "reviewBody": "Topbandar merupakan situs slot gacor gampang maxwin x1000 dengan jackpot terbesar hari ini"
+            "reviewBody": "Slot4d merupakan situs slot gacor gampang maxwin x1000 dengan jackpot terbesar hari ini"
           }
         },
         "offers": {
@@ -160,7 +160,7 @@
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData ="{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://topbd.pages.dev/img/tbd4.jpg","v_voya":1,"brand_name":"Topbandar","brand_id":"842","pdt_sku":9978447445,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":2255234788,"pdt_name":"Topbandar # Agen Slot Gacor 4d Terbaik & Situs Slot Toto Gacor Mudah Menang","page":{"regCategoryId":"002147001474","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=9978447445_ID-2255234788&_p_prod=9978447445&_p_sku=2255234788&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}";
+    var pdpTrackingData ="{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://topbd.pages.dev/img/tbd4.jpg","v_voya":1,"brand_name":"Slot4d","brand_id":"842","pdt_sku":9978447445,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":2255234788,"pdt_name":"Slot4d # Agen Slot Gacor 4d Terbaik & Situs Slot Toto Gacor Mudah Menang","page":{"regCategoryId":"002147001474","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=9978447445_ID-2255234788&_p_prod=9978447445&_p_sku=2255234788&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -678,7 +678,7 @@
 </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"Topbandar # Agen Slot Gacor 4d Terbaik & Situs Slot Toto Gacor Mudah Menang","image":"https://topbd.pages.dev/img/tbd4.jpg","category":"Game & Video","brand":{"@type":"Brand","name":"Topbandar","url":"https://campus.condoray.jedu.pe/"},"sku":"9978447445_ID-2255234788","mpn":9978447445,"description":"Topbandar menjadi agen slot4d gacor terbaik yang memberikan akses bermain slot toto gacor dengan tingkat kemenangan tertinggi saat ini. Slot gacor 4d yang hadir di situs Topbandar menjamin semua permainan slot gacor dan slot toto yang ada sudah berlisensi resmi supaya pengalaman bermain slot gacor 4d di link situs Topbandar semakin menyenangkan.","url":"https://campus.condoray.jedu.pe/","offers":{"@type":"Offer","url":"https://campus.condoray.jedu.pe/","seller":{"@type":"Organization","name":"Topbandar"},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"Slot4d # Agen Slot Gacor 4d Terbaik & Situs Slot Toto Gacor Mudah Menang","image":"https://topbd.pages.dev/img/tbd4.jpg","category":"Game & Video","brand":{"@type":"Brand","name":"Slot4d","url":"https://campus.condoray.jedu.pe/"},"sku":"9978447445_ID-2255234788","mpn":9978447445,"description":"Slot 4D merupakan situs agen slot gacor 4d serta slot toto gacor yang menyediakan ribuan game slot4d gacor mudah menang yang banyak dimainkan oleh para slotter. Agen slot 4d yang berani memberikan jaminan kemenangan terbesar di setiap putaran permainan slot toto 4d paling gacor hari ini.","url":"https://campus.condoray.jedu.pe/","offers":{"@type":"Offer","url":"https://campus.condoray.jedu.pe/","seller":{"@type":"Organization","name":"Slot4d"},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
@@ -689,35 +689,35 @@
           "position": 1,
           "item": {
             "@id": "https://campus.condoray.jedu.pe/",
-            "name": "Topbandar"
+            "name": "Slot4d"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
             "@id": "https://campus.condoray.jedu.pe/",
-            "name": "Topbandar Slot"
+            "name": "Slot Gacor 4d"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
             "@id": "https://campus.condoray.jedu.pe/",
-            "name": "Topbandar Alternatif"
+            "name": "Slot Toto 4D"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
             "@id": "https://campus.condoray.jedu.pe/",
-            "name": "Topbandar Login"
+            "name": "Slot Toto Gacor"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
             "@id": "https://campus.condoray.jedu.pe/",
-            "name": "Topbandar # Agen Slot Gacor 4d Terbaik & Situs Slot Toto Gacor Mudah Menang"
+            "name": "Slot 4D : Situs Agen Slot Gacor 4d & Slot Toto Gacor Terbaik Mudah Menang"
           }
         }]
       }
@@ -814,8 +814,8 @@
       <div class="lzd-header-content">
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="https://campus.condoray.jedu.pe/" data-spm="dhome"><img src="https://topbd.pages.dev/assets/images/logotopbandar.png" alt="Topbandar # Agen Slot Gacor 4d Terbaik & Situs Slot Toto Gacor Mudah Menang" style="width: min-content;"></a></div>
-              <div class="lzd-nav-search " data-spm="Topbandar">
+              <div class="lzd-logo-content"><a href="https://campus.condoray.jedu.pe/" data-spm="dhome"><img src="https://topbd.pages.dev/assets/images/logotopbandar.png" alt="Slot 4D : Situs Agen Slot Gacor 4d & Slot Toto Gacor Terbaik Mudah Menang" style="width: min-content;"></a></div>
+              <div class="lzd-nav-search " data-spm="Slot4d">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
                 <div class="lzd-nav-menu-redmart" style="display: none;">
@@ -824,7 +824,7 @@
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
             <a href="https://campus.condoray.jedu.pe/">
-                <span class="lzd-site-menu-nav-category-text">Topbandar</span>
+                <span class="lzd-site-menu-nav-category-text">Slot4d</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
   <div class="mui-zebra-module" id="J_icms-5000518-1511530513406" data-module-id="icms-5000518-1511530513406" data-version="5.0.51" data-spm="icms-5000518-1511530513406">
@@ -1874,7 +1874,7 @@
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
             <a href="https://campus.condoray.jedu.pe/">
-                <span class="lzd-site-menu-nav-category-text">Topbandar</span>
+                <span class="lzd-site-menu-nav-category-text">Slot4d</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
   <div class="mui-zebra-module" id="J_icms-5000518-1511530513406" data-module-id="icms-5000518-1511530513406" data-version="5.0.51" data-spm="icms-5000518-1511530513406">
@@ -3114,11 +3114,11 @@ if (!lzdDocCookies.getItem('t_uid')) {
       <ul class="breadcrumb" id="J_breadcrumb">
     <li class="breadcrumb_item">
     <span class="breadcrumb_item_text">
-    <a title="Topbandar" href="https://campus.condoray.jedu.pe/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.1"><span>Topbandar</span></a><div class="breadcrumb_right_arrow"></div></span></li>
+    <a title="Slot4d" href="https://campus.condoray.jedu.pe/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.1"><span>Slot4d</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item">
-    <span class="breadcrumb_item_text"><a title="Slot4d" href="https://campus.condoray.jedu.pe/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.2"><span>Slot4d</span></a><div class="breadcrumb_right_arrow"></div></span></li>
+    <span class="breadcrumb_item_text"><a title="Slot Toto" href="https://campus.condoray.jedu.pe/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.2"><span>Slot Toto</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item">
-    <span class="breadcrumb_item_text"><a title="Slot Gacor 4d" href="https://campus.condoray.jedu.pe/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.3"><span>Slot Gacor< 4d/span></a><div class="breadcrumb_right_arrow"></div></span></li>
+    <span class="breadcrumb_item_text"><a title="Slot Gacor 4d" href="https://campus.condoray.jedu.pe/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.3"><span>Slot Gacor 4d</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item">
     <span class="breadcrumb_item_text"><a title="Situs Slot Toto" href="https://campus.condoray.jedu.pe/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.4"><span data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.i0.72711c72BNY9K6">Situs Slot Toto</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item"><span class="breadcrumb_item_text">
@@ -3207,14 +3207,14 @@ if (!lzdDocCookies.getItem('t_uid')) {
  </div>
  
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="Topbandar # Agen Slot Gacor 4d Terbaik & Situs Slot Toto Gacor Mudah Menang" src="https://topbd.pages.dev/img/tbd4.jpg"/></div></div>
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="Slot 4D : Situs Agen Slot Gacor 4d & Slot Toto Gacor Terbaik Mudah Menang" src="https://topbd.pages.dev/img/tbd4.jpg"/></div></div>
   <a href="https://topbd.pages.dev/condoray/amp.html" rel="nofollow noopener" target="_blank"><img src="https://topbd.pages.dev/img/daftar-tbd.gif" width="100%" height="auto" alt=""></a>
-  </div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Topbandar # Agen Slot Gacor 4d Terbaik & Situs Slot Toto Gacor Mudah Menang</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a href="https://campus.condoray.jedu.pe/" class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">88.888.888 Member Jackpot</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module">
-  <div class="pdp-product-brand"><span class="pdp-product-brand__name">MEREK<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://campus.condoray.jedu.pe/">Topbandar</a></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
+  </div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">Slot 4D : Situs Agen Slot Gacor 4d & Slot Toto Gacor Terbaik Mudah Menang</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a href="https://campus.condoray.jedu.pe/" class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">88.888.888 Member Jackpot</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module">
+  <div class="pdp-product-brand"><span class="pdp-product-brand__name">MEREK<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://campus.condoray.jedu.pe/">Slot4d</a></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
     <footer class="footer-container container"> 
          <div class="row site-description-container">
              <div class="content">
-               <p><a href="https://campus.condoray.jedu.pe/" title="Topbandar">Topbandar</a> menjadi agen slot4d gacor terbaik yang memberikan akses bermain slot toto gacor dengan tingkat kemenangan tertinggi saat ini. Slot gacor 4d yang hadir di situs Topbandar menjamin semua permainan slot gacor dan slot toto yang ada sudah berlisensi resmi supaya pengalaman bermain slot gacor 4d di link situs Topbandar semakin menyenangkan.</p>
+               <p><a href="https://campus.condoray.jedu.pe/" title="Slot 4D">Slot 4D</a> merupakan situs agen slot gacor 4d serta slot toto gacor yang menyediakan ribuan game slot4d gacor mudah menang yang banyak dimainkan oleh para slotter. Agen slot 4d yang berani memberikan jaminan kemenangan terbesar di setiap putaran permainan slot toto 4d paling gacor hari ini.</p>
               </br>
              
             <div class="col-sm-12">
@@ -3227,7 +3227,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
                         </tr>
                         <tr>
                            <td><b>NAMA SITUS</b></td>
-                           <td><b>TOPBANDAR</b></td>
+                           <td><b>SLOT4D</b></td>
                         </tr>
                         <tr>
                            <td><b>JENIS GAME</b></td>
